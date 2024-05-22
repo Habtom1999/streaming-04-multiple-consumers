@@ -4,7 +4,6 @@ Habtom Woldu May 20,2024
 
 One process will create task messages. Multiple worker processes will share the work. 
 
-
 ## Before You Begin
 
 1. Fork this starter repo into your GitHub.

@@ -1,5 +1,5 @@
 # streaming-04-multiple-consumers
-
+Habtom Woldu May 20,2024
 > Use RabbitMQ to distribute tasks to multiple workers
 
 One process will create task messages. Multiple worker processes will share the work. 
@@ -58,3 +58,5 @@ Which worker gets which tasks?
 ## Screenshot
 
 See a running example with at least 3 concurrent process windows here:
+![alt text](image.png)
+![alt text](image-1.png)

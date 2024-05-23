@@ -59,3 +59,5 @@ Which worker gets which tasks?
 See a running example with at least 3 concurrent process windows here:
 ![alt text](image.png)
 ![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)

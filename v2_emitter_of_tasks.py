@@ -2,8 +2,8 @@
     This program sends a message to a queue on the RabbitMQ server.
     Make tasks harder/longer-running by adding dots at the end of the message.
 
-    Author: Denise Case
-    Date: January 15, 2023
+    Author: Habtom Woldu
+    Date: May 23, 2024
 
 """
 
